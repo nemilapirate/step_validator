@@ -1,3 +1,20 @@
+# Présentation du projet
+
+Petit projet de formulaire avec étapes de validation.
+Ce formulaire permet à l'utilisateur de donner ses préférences (ici une application de nourriture).
+Par exemple ses allergies, ses aliments préféré afin d'afficher les meilleures recettes.
+EN fonction des réponses reçu par l'utilisateur, une petite barre avec des icones s'anime.
+
+## Lancer le projet 
+
+-   npm init (après avoir cloner le repo)
+
+## Lancer l'appli
+
+-   npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
